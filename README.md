@@ -2,15 +2,15 @@
 
 ##### Your Task 📚:
 
-Create a function called `hashPlusCount` that returns the number of hashes and pluses in a string.
+Create a function called `plusHashCount` that returns the number of hashes and pluses in a string.
 
 ##### Examples 😃:
 
 ```
-hashPlusCount("###+") ➞ [3, 1]
-hashPlusCount("##+++#") ➞ [3, 3]
-hashPlusCount("#+++#+#++#") ➞ [4, 6]
-hashPlusCount("") ➞ [0, 0]
+plusHashCount("###+") ➞ [1, 3]
+plusHashCount("##+++#") ➞ [3, 3]
+plusHashCount("#+++#+#++#") ➞ [6, 4]
+plusHashCount("") ➞ [0, 0]
 ```
 
 Good Luck 😀
