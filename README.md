@@ -1,15 +1,14 @@
-## Remove Duplicates
+## Sum of two smallest numbers
 
 ##### Your Task 📚:
 
-Create a function called `removeDuplicates` that takes an array of items, removes all duplicate items and returns a new array.
+Create a function called `sumTwoSmallestNums` that takes an array of numbers and returns the sum of the two smallest numbers.
 
 ##### Examples 😃:
 
 ```
-removeDuplicates([1, 0, 1, 0]) ➞ [1, 0]
-removeDuplicates(["New", "York", "City"]) ➞ ["New", "York", "City"]
-removeDuplicates(["Hassan", "Aisha", "Aisha"]) ➞ ["Hassan", "Aisha"]
+sumTwoSmallestNums([12, 5, 24, 55, 18]) ➞ 17
+sumTwoSmallestNums([190, 300, 230, 800]) ➞ 420
 ```
 
 Good Luck 😀
