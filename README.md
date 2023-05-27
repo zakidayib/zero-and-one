@@ -1,15 +1,16 @@
-## Find second largest number
+## Pluses and Hashes
 
 ##### Your Task 📚:
 
-Create a function called `secondLargest` that takes an array of numbers and returns the second largest number.
+Create a function called `hashPlusCount` that returns the number of hashes and pluses in a string.
 
 ##### Examples 😃:
 
 ```
-secondLargest([23, 66, 50, 12, 6]) ➞ 50
-secondLargest([65, 34, 100, 22, 85]) ➞ 85
-secondLargest([67, 22, 19, 12, 80]) ➞ 67
+hashPlusCount("###+") ➞ [3, 1]
+hashPlusCount("##+++#") ➞ [3, 3]
+hashPlusCount("#+++#+#++#") ➞ [4, 6]
+hashPlusCount("") ➞ [0, 0]
 ```
 
 Good Luck 😀
