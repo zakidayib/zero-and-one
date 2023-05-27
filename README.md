@@ -1,16 +1,15 @@
-## Count characters in string
+## Find second largest number
 
 ##### Your Task 📚:
 
-Create a function called `count` that takes two strings as arguments and returns the
-number of times the first string (the single character) is found in the second string.
+Create a function called `secondLargest` that takes an array of numbers and returns the second largest number.
 
 ##### Examples 😃:
 
 ```
-count("a", "fikrcamp") ➞ 1
-count("c", "bootcamp") ➞ 1
-count("o", "fikrcamp coding bootcamp") ➞ 3
+secondLargest([23, 66, 50, 12, 6]) ➞ 50
+secondLargest([65, 34, 100, 22, 85]) ➞ 85
+secondLargest([67, 22, 19, 12, 80]) ➞ 67
 ```
 
 Good Luck 😀
