@@ -1,15 +1,15 @@
-## Reverse word
+## Capitalize first letters
 
 ##### Your Task 📚:
 
-Create a function called `reverseWords` that takes in a sentence and reverses it word by word
+Create a function `makeCapital` that takes a string as an argument and converts the first character of each word to uppercase. Return the newly formatted string.
 
 ##### Examples 😃:
 
 ```
-reverseWords("fikrcamp bootcamp") ➞ "bootcamp fikrcamp"
-reverseWords("hello there!") ➞ "there! hello"
-reverseWords("welcome to my city") ➞ "city my to welcome"
+makeCapital("my name is ali") ➞ "My Name Is Ali"
+makeCapital("fikrcamp Bootcamp") ➞ "Fikrcamp Bootamp"
+makeCapital("i live In Paris") ➞ "I Live In Paris"
 ```
 
 Good Luck 😀
