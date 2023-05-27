@@ -1,16 +1,15 @@
-## Pluses and Hashes
+## Reverse word
 
 ##### Your Task 📚:
 
-Create a function called `plusHashCount` that returns the number of hashes and pluses in a string.
+Create a function called `reverseWords` that takes in a sentence and reverses it word by word
 
 ##### Examples 😃:
 
 ```
-plusHashCount("###+") ➞ [1, 3]
-plusHashCount("##+++#") ➞ [3, 3]
-plusHashCount("#+++#+#++#") ➞ [6, 4]
-plusHashCount("") ➞ [0, 0]
+reverseWords("fikrcamp bootcamp") ➞ "bootcamp fikrcamp"
+reverseWords("hello there!") ➞ "there! hello"
+reverseWords("welcome to my city") ➞ "city my to welcome"
 ```
 
 Good Luck 😀
