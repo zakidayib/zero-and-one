@@ -1,14 +1,15 @@
-## Sum of two smallest numbers
+## Zero and Ones
 
 ##### Your Task 📚:
 
-Create a function called `sumTwoSmallestNums` that takes an array of numbers and returns the sum of the two smallest numbers.
+Create a function called `ZeroAndOne` that converts 'Zero' and 'One' to 1s and 0s. If the arguement is not equal to
+'Zero' or 'One' (case sensative) ignore it.
 
 ##### Examples 😃:
 
 ```
-sumTwoSmallestNums([12, 5, 24, 55, 18]) ➞ 17
-sumTwoSmallestNums([190, 300, 230, 800]) ➞ 420
+sumTwoSmallestNums(["one","Zero","Zero","One"]) ➞ "001"
+sumTwoSmallestNums(["Zero", "ONE", "one", "Zero"]) ➞ "00"
 ```
 
 Good Luck 😀
