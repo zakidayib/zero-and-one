@@ -7,8 +7,10 @@ number of times the first string (the single character) is found in the second s
 
 ##### Examples 😃:
 
+```
 count("a", "fikrcamp") ➞ 1
 count("c", "bootcamp") ➞ 1
 count("o", "fikrcamp coding bootcamp") ➞ 3
+```
 
 Good Luck 😀
