@@ -1,15 +1,15 @@
-## Capitalize first letters
+## Remove Duplicates
 
 ##### Your Task 📚:
 
-Create a function `makeCapital` that takes a string as an argument and converts the first character of each word to uppercase. Return the newly formatted string.
+Create a function called `removeDuplicates` that takes an array of items, removes all duplicate items and returns a new array.
 
 ##### Examples 😃:
 
 ```
-makeCapital("my name is ali") ➞ "My Name Is Ali"
-makeCapital("fikrcamp Bootcamp") ➞ "Fikrcamp Bootamp"
-makeCapital("i live In Paris") ➞ "I Live In Paris"
+removeDuplicates([1, 0, 1, 0]) ➞ [1, 0]
+removeDuplicates(["New", "York", "City"]) ➞ ["New", "York", "City"]
+removeDuplicates(["Hassan", "Aisha", "Aisha"]) ➞ ["Hassan", "Aisha"]
 ```
 
 Good Luck 😀
