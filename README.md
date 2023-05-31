@@ -8,8 +8,8 @@ Create a function called `ZeroAndOne` that converts 'Zero' and 'One' to 1s and 0
 ##### Examples 😃:
 
 ```
-sumTwoSmallestNums(["one","Zero","Zero","One"]) ➞ "001"
-sumTwoSmallestNums(["Zero", "ONE", "one", "Zero"]) ➞ "00"
+ZeroAndOne(["one","Zero","Zero","One"]) ➞ "001"
+ZeroAndOne(["Zero", "ONE", "one", "Zero"]) ➞ "00"
 ```
 
 Good Luck 😀
